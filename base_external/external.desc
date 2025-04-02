@@ -1,0 +1,3 @@
+name: base_external
+desc: Collection de packages externes pour ma distribution Buildroot
+author: Loic

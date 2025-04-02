@@ -1,0 +1,6 @@
+# package/Config.in
+
+config BR2_PACKAGE_PACKAGE1
+    bool "Package1"
+    help
+      Cette option permet d'ajouter Package1 à la construction Buildroot.

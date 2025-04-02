@@ -1,0 +1,4 @@
+# Config.in
+
+# Inclure la configuration de chaque package dans le répertoire package/
+source "$BR2_EXTERNAL_project_base_PATH/package/Config.in"
